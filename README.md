@@ -33,6 +33,6 @@ Despedida:
 “Valeu por ouvir, e até a próxima! Se cuida e feliz codificação!”
 
 ## 🖥️Ferramentas utilizadas
-Imagem: Copilot
-Áudio: ElevenLabs
-Roterio: ChatGPT
+- Imagem: Copilot
+- Áudio: ElevenLabs
+- Roterio: ChatGPT
